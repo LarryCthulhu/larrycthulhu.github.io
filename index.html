@@ -11,7 +11,7 @@
                 //al hacer click en el botón traiga los datos desde la API
                 //el retorno lo voy a cargar en la tabla "categorias"
                 $("#enviar").click(function(){
-                    $.get("https://github.com/LarryCthulhu/joaquinprueba/blob/main/hola.json",
+                    $.get("https://www.themealdb.com/api/json/v1/1/categories.php",
                     function(data){
                         //en data traigo la respuesta de la API
                         //la recorrro con each
