@@ -1,0 +1,20 @@
+{
+  "eventos": [
+    {
+      "id": 4,
+      "nombre": "BuinZoo",
+      "juego": "Bueno",
+      "descripcion": "Buin",
+      "direccion": "Chile",
+      "pais": "asdasdasd"
+    },
+    {
+      "id": 5,
+      "nombre": "Hola",
+      "juego": "Melee",
+      "descripcion": "Juego bueno ekis de",
+      "direccion": "Viña del Mar",
+      "pais": "Chile"
+    }
+  ]
+}
