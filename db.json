@@ -1,5 +1,4 @@
-{
-  "eventos": [
+[
     {
       "id": 4,
       "nombre": "BuinZoo",
@@ -17,4 +16,3 @@
       "pais": "Chile"
     }
   ]
-}
